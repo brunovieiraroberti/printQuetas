@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpressorDeEtiquetas", "ImpressorDeEtiquetas\ImpressorDeEtiquetas.csproj", "{A7E4626B-19C9-4A1D-978D-A4284241D767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etiquetas.Core", "Abandonados.Core\Etiquetas.Core.csproj", "{96B76FA2-DBDA-414A-86AA-C82D04BAB5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E4626B-19C9-4A1D-978D-A4284241D767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E4626B-19C9-4A1D-978D-A4284241D767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E4626B-19C9-4A1D-978D-A4284241D767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E4626B-19C9-4A1D-978D-A4284241D767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B76FA2-DBDA-414A-86AA-C82D04BAB5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B76FA2-DBDA-414A-86AA-C82D04BAB5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B76FA2-DBDA-414A-86AA-C82D04BAB5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B76FA2-DBDA-414A-86AA-C82D04BAB5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

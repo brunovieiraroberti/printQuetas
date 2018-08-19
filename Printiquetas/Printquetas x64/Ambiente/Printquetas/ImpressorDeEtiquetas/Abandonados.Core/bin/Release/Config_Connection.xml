@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configs> 
+	<connectionStrings name="G_S_CONNECTION_STRING">
+        <!--<cnn>Provider=Microsoft.ACE.OLEDB.12.0;Persist Security Info=False;Data Source="\\192.168.1.254\Users\Administrator\Documents\AUTORIZACOES PS\Materiais em Midia\Label\bdEtiquetas.accdb";Jet OLEDB:Database </cnn>-->
+		<!--<cnn>Provider=Microsoft.ACE.OLEDB.12.0;Persist Security Info=False;Data Source="G:\Ajax Tecnologia Ltda\Produtos\Printquetas\outputEtiquetas\bdEtiquetas.accdb";Jet OLEDB:Database </cnn>-->
+		<cnn>Provider=SQLOLEDB;Data Source=LG-PC;Initial Catalog=PRINTQUETAS;User ID=userPrintquetas;Password=password;</cnn>
+	</connectionStrings>
+</Configs>

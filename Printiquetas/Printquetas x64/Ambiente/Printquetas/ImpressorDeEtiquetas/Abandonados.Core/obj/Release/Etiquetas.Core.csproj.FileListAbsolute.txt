@@ -1,0 +1,79 @@
+F:\Abandonados\Abandonados.Core\bin\Release\Abandonados.Core.dll
+F:\Abandonados\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+F:\Abandonados\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+F:\Abandonados\Abandonados.Core\obj\Release\Abandonados.Core.dll
+F:\Abandonados\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+d:\Meus documentos\Projeto\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+d:\Meus documentos\Projeto\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+d:\Meus documentos\Projeto\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+d:\Meus documentos\Projeto\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+d:\Meus documentos\Projeto\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+E:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+E:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+E:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+E:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+E:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+E:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+F:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+F:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+F:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+F:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+F:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+F:\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+C:\Documents and Settings\Admin\Desktop\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+C:\Documents and Settings\Admin\Desktop\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+C:\Documents and Settings\Admin\Desktop\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+C:\Documents and Settings\Admin\Desktop\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+C:\Documents and Settings\Admin\Desktop\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Nova pasta\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+G:\Nova pasta\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+G:\Nova pasta\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+G:\Nova pasta\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+G:\Nova pasta\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+G:\Nova pasta\Etiquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+G:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+G:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+G:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+G:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+G:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+F:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+F:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+F:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+F:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+F:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+F:\Nova pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Nova_Pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+G:\Nova_Pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+G:\Nova_Pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+G:\Nova_Pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+G:\Nova_Pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+G:\Nova_Pasta\Etiquetas Ultima versão\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll.config
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.dll
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\outputEtiquetas\Abandonados.Core.dll.config
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\outputEtiquetas\Abandonados.Core.dll
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\outputEtiquetas\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Etiquetas.Core.csprojResolveAssemblyReference.cache
+E:\Ajax Tecnologia Ltda\Produtos\Printquetas\outputEtiquetas\Abandonados.Core.dll.config
+E:\Ajax Tecnologia Ltda\Produtos\Printquetas\outputEtiquetas\Abandonados.Core.dll
+E:\Ajax Tecnologia Ltda\Produtos\Printquetas\outputEtiquetas\Abandonados.Core.pdb
+E:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+E:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+E:\Ajax Tecnologia Ltda\Produtos\Printquetas\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas x64\outputEtiquetas\Abandonados.Core.dll.config
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas x64\outputEtiquetas\Abandonados.Core.dll
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas x64\outputEtiquetas\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas x64\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Etiquetas.Core.csprojResolveAssemblyReference.cache
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas x64\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+G:\Ajax Tecnologia Ltda\Produtos\Printquetas x64\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printiquetas\Printquetas x64\outputEtiquetas\Abandonados.Core.dll.config
+G:\Ajax Tecnologia Ltda\Produtos\Printiquetas\Printquetas x64\outputEtiquetas\Abandonados.Core.dll
+G:\Ajax Tecnologia Ltda\Produtos\Printiquetas\Printquetas x64\outputEtiquetas\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printiquetas\Printquetas x64\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.dll
+G:\Ajax Tecnologia Ltda\Produtos\Printiquetas\Printquetas x64\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Abandonados.Core.pdb
+G:\Ajax Tecnologia Ltda\Produtos\Printiquetas\Printquetas x64\Ambiente\Printquetas\ImpressorDeEtiquetas\Abandonados.Core\obj\Release\Etiquetas.Core.csprojResolveAssemblyReference.cache

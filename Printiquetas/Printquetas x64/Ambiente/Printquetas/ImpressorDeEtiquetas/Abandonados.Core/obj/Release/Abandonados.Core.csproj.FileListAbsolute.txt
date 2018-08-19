@@ -1,0 +1,5 @@
+E:\Abandonados\Abandonados.Core\bin\Release\Abandonados.Core.dll
+E:\Abandonados\Abandonados.Core\bin\Release\Abandonados.Core.pdb
+E:\Abandonados\Abandonados.Core\obj\Release\ResolveAssemblyReference.cache
+E:\Abandonados\Abandonados.Core\obj\Release\Abandonados.Core.dll
+E:\Abandonados\Abandonados.Core\obj\Release\Abandonados.Core.pdb

@@ -1,0 +1,10 @@
+E:\Abandonados\Abandonados.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Abandonados\Abandonados.Core\bin\Debug\Abandonados.Core.dll
+E:\Abandonados\Abandonados.Core\bin\Debug\Abandonados.Core.pdb
+E:\Abandonados\Abandonados.Core\obj\Debug\Abandonados.Core.dll
+E:\Abandonados\Abandonados.Core\obj\Debug\Abandonados.Core.pdb
+F:\Abandonados\Abandonados.Core\bin\Debug\Abandonados.Core.dll
+F:\Abandonados\Abandonados.Core\bin\Debug\Abandonados.Core.pdb
+F:\Abandonados\Abandonados.Core\obj\Debug\ResolveAssemblyReference.cache
+F:\Abandonados\Abandonados.Core\obj\Debug\Abandonados.Core.dll
+F:\Abandonados\Abandonados.Core\obj\Debug\Abandonados.Core.pdb
